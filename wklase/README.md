@@ -1,12 +1,10 @@
 <div align="center" id="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031a15,30:083b31,65:0f5c4d,100:1a7a67&height=280&section=header&text=Wklase&fontSize=90&fontColor=f6b93b&fontAlignY=35&animation=scale&stroke=031a15&strokeWidth=2" width="100%" alt="Wklase Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031a15,30:083b31,65:0f5c4d,100:1a7a67&height=260&section=header&text=Wklase&fontSize=85&fontColor=f6b93b&fontAlignY=38&animation=scale&stroke=031a15&strokeWidth=2" width="100%" alt="Wklase Header"/>
 
-<a href="#about">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=F6B93B&center=true&vCenter=true&width=780&height=45&lines=Private+Educational+Ecosystem;%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F+%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0;Priv%C4%81ta+m%C4%81c%C4%ABbu+ekosist%C4%93ma;Privaatne+%C3%B5ppeekosüsteem;Privati+mokymosi+ekosistema" alt="Typing SVG" />
-</a>
+<h2 style="color: #f6b93b;">🔒 Приватная учебная экосистема &bull; Private Educational Ecosystem</h2>
 
-<br/><br/>
+<br/>
 
 <p>
   <a href="./index.html">
