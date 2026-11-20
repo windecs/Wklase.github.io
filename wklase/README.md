@@ -1,23 +1,97 @@
-# Wklase
+<div align="center" id="top">
 
-Учебная платформа: ученики, учителя, администратор. Полностью статический сайт (HTML + CSS + JS), без сервера, без сборки, без платных сервисов. Данные хранятся в `localStorage` браузера или, по желанию, в вашем репозитории GitHub (см. раздел ниже).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031a15,30:083b31,65:0f5c4d,100:1a7a67&height=280&section=header&text=Wklase&fontSize=90&fontColor=f6b93b&fontAlignY=35&animation=scale&stroke=031a15&strokeWidth=2" width="100%" alt="Wklase Header"/>
 
-## Возможности
+<a href="#about">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=F6B93B&center=true&vCenter=true&width=780&height=45&lines=Private+Educational+Ecosystem;%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F+%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0;Priv%C4%81ta+m%C4%81c%C4%ABbu+ekosist%C4%93ma;Privaatne+%C3%B5ppeekosüsteem;Privati+mokymosi+ekosistema" alt="Typing SVG" />
+</a>
 
-- Вход по email и паролю. Публичной регистрации нет: пользователей создаёт администратор.
-- Три роли с разными панелями:
-  - **Ученик**: оценки, средний балл, домашние задания, расписание.
-  - **Учитель**: выставление оценок, добавление домашних заданий.
-  - **Администратор**: добавление, удаление пользователей, смена ролей и паролей, экспорт и импорт JSON.
-- Языки LV / RU / EN, выпадающие меню, адаптивная вёрстка, встроенные SVG-иконки.
+<br/><br/>
 
+<p>
+  <a href="./index.html">
+    <img src="https://img.shields.io/badge/🚀_OPEN_WKLASE_PLATFORM-f6b93b?style=for-the-badge&labelColor=083b31" alt="Open Platform"/>
+  </a>
+  <a href="#languages">
+    <img src="https://img.shields.io/badge/🌐_SELECT_LANGUAGE-0f5c4d?style=for-the-badge&logo=googletranslate&logoColor=f6b93b" alt="Select Language"/>
+  </a>
+</p>
 
-Сразу после первого входа создайте своего администратора, смените пароль и удалите стандартный аккаунт.
+<p>
+  <a href="#ru">
+    <img src="https://img.shields.io/badge/SECURITY-RESTRICTED-083b31?style=for-the-badge&logo=gnupg&logoColor=f6b93b" alt="Security"/>
+  </a>
+  <a href="#en">
+    <img src="https://img.shields.io/badge/ARCHITECTURE-SERVERLESS-0f5c4d?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Serverless"/>
+  </a>
+  <a href="#lv">
+    <img src="https://img.shields.io/badge/MAINTENANCE-ZERO_COST-187a66?style=for-the-badge&logo=coffeescript&logoColor=f6b93b" alt="Zero Cost"/>
+  </a>
+</p>
 
-## Важно о безопасности
+</div>
 
-Это клиентское приложение. Без подключения GitHub данные лежат в браузере каждого посетителя и не синхронизируются между устройствами. Хэш пароля виден любому, кто открыл DevTools или файл данных, поэтому это **не** защита уровня реальной учебной системы. Для резервных копий и переноса на другое устройство используйте «Экспорт JSON» и «Импорт JSON» во вкладке «Резервная копия» админ-панели.
+<br>
 
-## Запуск
+<div align="center" id="about">
+  <h3>✨ О проекте / About / Par projektu</h3>
+  <p><i>Строгая конфиденциальность и максимальный комфорт для учебного процесса</i></p>
+</div>
 
-Откройте `windecs.github.io/wklase.github.io` в браузере
+<br>
+
+<div align="center" id="languages">
+  <a href="#ru"><img src="https://img.shields.io/badge/🇷🇺_Русский-0f5c4d?style=flat-square" alt="RU"/></a>
+  <a href="#lv"><img src="https://img.shields.io/badge/🇱🇻_Latviešu-0f5c4d?style=flat-square" alt="LV"/></a>
+  <a href="#en"><img src="https://img.shields.io/badge/🇬🇧_English-0f5c4d?style=flat-square" alt="EN"/></a>
+  <a href="#ee"><img src="https://img.shields.io/badge/🇪🇪_Eesti-0f5c4d?style=flat-square" alt="EE"/></a>
+  <a href="#lt"><img src="https://img.shields.io/badge/🇱🇹_Lietuvių-0f5c4d?style=flat-square" alt="LT"/></a>
+</div>
+
+<br>
+
+---
+
+<div id="ru"></div>
+
+### 🇷🇺 Русский
+
+> **Wklase** — это приватная, современная и легкая учебная веб-платформа, созданная для удобного и безопасного взаимодействия в закрытом образовательном пространстве. Доступ к системе строго ограничен и предназначен исключительно для приглашенных участников процесса. Проект полностью статический, работает без внешних серверов и платных баз данных, благодаря чему его можно легко и бесплатно развернуть для автономной работы.
+
+<div id="lv"></div>
+
+### 🇱🇻 Latviešu
+
+> **Wklase** ir privāta, mūsdienīga un viegla mācību tīmekļa platforma, kas radīta ērtai un drošai ikdienas lietošanai slēgtā izglītības vidē. Piekļuve sistēmai ir stingri ierobežota un paredzēta tikai uzaicinātajiem mācību procesa dalībniekiem. Projekts ir pilnībā statisks un darbojas bez ārējiem serveriem vai maksas datubāzēm, tāpēc to var vienkārši un bez maksas izvietot autonomai darbībai.
+
+<div id="en"></div>
+
+### 🇬🇧 English
+
+> **Wklase** is a private, modern, and lightweight educational web platform designed for seamless and secure daily use within a closed learning environment. Access to the system is strictly restricted and intended exclusively for invited participants. The project is completely static and runs without external servers or paid databases, making it easy to deploy for free for standalone operation.
+
+<div id="ee"></div>
+
+### 🇪🇪 Eesti
+
+> **Wklase** on privaatne, kaasaegne ja kerge õppeveebiplatvorm, mis on loodud mugavaks ja turvaliseks igapäevaseks kasutamiseks suletud õpikeskkonnas. Juurdepääs süsteemile on rangelt piiratud ning mõeldud ainult kutsutud osalejatele. Projekt on täielikult staatiline ega vaja väliseid servereid ega tasulisi andmebaase, mistõttu on seda lihtne ja tasuta juurutada iseseisvaks tööks.
+
+<div id="lt"></div>
+
+### 🇱🇹 Lietuvių
+
+> **Wklase** – tai privati, šiuolaikiška ir lengva mokymosi žiniatinklio platforma, sukurta patogiam ir saugiam kasdieniam naudojimui uždaroje ugdymo aplinkoje. Prieiga prie sistemos yra griežtai ribota ir skirta tik pakviestiems proceso dalyviams. Projektas yra visiškai statinis ir veikia be išorinių serverių ar mokamų duomenų bazių, todėl jį paprasta ir nemokama įdiegti savarankiškam darbui.
+
+<br>
+
+---
+
+<div align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_BACK_TO_TOP-f6b93b?style=for-the-badge&labelColor=083b31" alt="Back to Top"/>
+  </a>
+  <br><br>
+  <sub style="color: #888;">Designed with precision &bull; Wklase Platform &copy; 2026</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a67,35:0f5c4d,70:083b31,100:031a15&height=140&section=footer&animation=scale" width="100%" alt="Wklase Footer"/>
